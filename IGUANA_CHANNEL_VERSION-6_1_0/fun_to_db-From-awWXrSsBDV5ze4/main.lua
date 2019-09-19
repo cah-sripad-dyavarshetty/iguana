@@ -4,7 +4,6 @@ mymathmodule = require("mymath")
 mymathmodule.file()
 mymathmodule.connectdb()
 mymathmodule.insert()
-
 mymathmodule.execute()
    
    
